@@ -4,7 +4,7 @@ Assalamualaikum, salam sejahtera semua. Simple, saya punya beberapa list program
 
 ## - TOOLS 🐍
 + Python +3
-+ Windows 10
++ Windows 10/11
 
 ## FILE SECURE
   File ini dibuat untuk menjaga privasi suatu **file video berekstensi .mp4** pada windows 10 & 11 yang nantinya akan melakukan encrypt data dan mengubahnya menjadi ekstensi lain, meskipun begitu *nama file* tidak akan diubah untuk memastikan kalian tidak lupa. Sebelum itu, perhatikan juga bahwa script ini memiliki beberapa requirement dan dependencies yang diperlukan demi kelancaran script. 
